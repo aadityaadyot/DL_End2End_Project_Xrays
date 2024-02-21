@@ -23,6 +23,6 @@ name= "Xray_DL_Project",
 version="0.0.1",
 author="aaditya adyot shrivastava",
 author_email="glsgobiii@gmail.com",
-install_requires=get_requirements('/config/workspace/requirements_dev.txt'),
+install_requires=get_requirements(r'/config/workspace/requirements_dev.txt'),
 package=find_packages()
 )
